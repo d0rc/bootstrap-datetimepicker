@@ -7,8 +7,8 @@
   ],
   "dependencies": {
     "jquery": ">=1.8.3",
-    "moment": ">=2.9.0",
-    "moment-timezone": ">=0.4.0"
+    "moment": "d0rc/moment#55a13e1208b99b33ec2f043ca74d97197e255ef1",
+    "moment-timezone": "d0rc/moment-timezone#eb39d5720b72b6822d4ac9a1cf0d5a4065f77f8f"
   },
   "homepage": "https://github.com/Eonasdan/bootstrap-datetimepicker",
   "authors": [
